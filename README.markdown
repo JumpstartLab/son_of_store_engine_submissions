@@ -1,6 +1,3 @@
-* [SonOfStoreEngine Project Description](http://tutorials.jumpstartlab.com/projects/son_of_store_engine.html)
-* [SOSE Review Rubric](http://tutorials.jumpstartlab.com/projects/son_of_store_engine_code_review_rubric.html)
-
 ### First Round
 
 #### Groups & URLS

@@ -25,7 +25,7 @@
   * 4B: Ito, Kiefhaber
   * Code: (fill me in)
   * Production: (fill me in)
-* Team 5:
+* Team 5: chez-pierre.info
   * 5A: Maddox, Williams
   * 5B: Chenault, Chlipala
   * Code: (fill me in)

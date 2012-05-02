@@ -13,8 +13,8 @@
 * Team 2:
   * 2A: Gilman, Thal
   * 2B: Kaufman, Rimmer
-  * Code: (fill me in)
-  * Production: (fill me in)
+  * Code: https://github.com/athal7/son_of_store_engine
+  * Production: http://daughterofstoreengine.herokuapp.com/ 
 * Team 3:
   * 3A: Koszewski, Scheffler
   * 3B: Shah, Cutrali

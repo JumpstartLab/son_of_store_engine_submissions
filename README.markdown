@@ -8,8 +8,8 @@
 * Team 1:
   * 1A: Silvis, Anderson
   * 1B: Verdi, Worthy
-  * Code: (fill me in)
-  * Production: (fill me in)
+  * Code: https://github.com/MikeSilvis/son_of_store_engine
+  * Production: http://polutropon.com/
 * Team 2:
   * 2A: Gilman, Thal
   * 2B: Kaufman, Rimmer

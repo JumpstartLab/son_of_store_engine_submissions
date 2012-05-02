@@ -30,8 +30,8 @@
 * Team 6:
   * 6A: Strahan, Valentine
   * 6B: Rivera, Weng
-  * Code: (fill me in)
-  * Production: (fill me in)
+  * Code: https://github.com/eweng/son_of_store_engine
+  * Production: http://storeberry.herokuapp.com, http://www.storeenginebaby.com
 
 #### Schedule
 

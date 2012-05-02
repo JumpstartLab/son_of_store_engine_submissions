@@ -40,7 +40,7 @@ Please be at your appointed times early and take careful notice of who is review
 * 1:00 - 2:00
   * 4A reviews 5B in Classroom High
   * 5A reviews 6B in Classroom Low
-  * 6A reviews 4B in Boardroom
+  * 6A reviews 4B in Extra Room
 * 1:00 - 1:30
   * Team 1 with Yoho in Yoho's Office
   * Team 2 with Wehner in the Fishbowl
@@ -52,7 +52,7 @@ Please be at your appointed times early and take careful notice of who is review
 * 2:00 - 3:00
   * 1A reviews 2B in Classroom High
   * 2A reviews 3B in Classroom Low
-  * 3A reviews 1B in Boardroom
+  * 3A reviews 1B in Extra Room
 * 2:00 - 2:30
   * Team 4 with Yoho in Yoho's Office
   * Team 5 with Wehner in the Fishbowl
@@ -67,7 +67,7 @@ Please be at your appointed times early and take careful notice of who is review
   * 5B reviews 3A in Jeff's Office
   * 6B reviews 4A in Classroom High
   * 1B reviews 5A in Classroom Low
-  * 2B reviews 6A in Boardroom
+  * 2B reviews 6A in Extra Room
 
 #### Peer Reviews
 

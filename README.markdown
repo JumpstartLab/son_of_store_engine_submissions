@@ -18,8 +18,8 @@
 * Team 3:
   * 3A: Koszewski, Scheffler
   * 3B: Shah, Cutrali
-  * Code: (fill me in)
-  * Production: (fill me in)
+  * Code: https://github.com/1337807/son_of_store_engine
+  * Production: http://www.sonofstoreengine.com/
 * Team 4:
   * 4A: Glass, Tabler
   * 4B: Ito, Kiefhaber

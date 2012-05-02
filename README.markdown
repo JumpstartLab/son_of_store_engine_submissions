@@ -25,11 +25,11 @@
   * 4B: Ito, Kiefhaber
   * Code: (fill me in)
   * Production: (fill me in)
-* Team 5:
+* Team 5: 
   * 5A: Maddox, Williams
   * 5B: Chenault, Chlipala
-  * Code: (fill me in)
-  * Production: (fill me in)
+  * Code: https://github.com/mikesea/son_of_store_engine
+  * Production: chez-pierre.info
 * Team 6:
   * 6A: Strahan, Valentine
   * 6B: Rivera, Weng

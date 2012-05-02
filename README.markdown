@@ -23,8 +23,8 @@
 * Team 4:
   * 4A: Glass, Tabler
   * 4B: Ito, Kiefhaber
-  * Code: (fill me in)
-  * Production: (fill me in)
+  * Code: (fill me in) https://github.com/tkiefhaber/son_of_store_engine/
+  * Production: (fill me in) http://son-of-store-engine.herokuapp.com
 * Team 5:
   * 5A: Maddox, Williams
   * 5B: Chenault, Chlipala

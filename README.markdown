@@ -17,12 +17,15 @@ https://docs.google.com/spreadsheet/viewform?formkey=dDlNZVdva0hhd3liY0N4SlR1Vkh
 * Team A: Maddox, Williams, Chenault, Chlipala
   * Code: https://github.com/mikesea/son_of_store_engine
   * Production: http://chez-pierre.info
+  * README: https://github.com/mikesea/son_of_store_engine/blob/master/README.markdown
 * Team B: Silvis, Anderson, Verdi, Worthy
   * Code: https://github.com/MikeSilvis/son_of_store_engine
   * Production: http://polutropon.com/
+  * README: https://github.com/MikeSilvis/son_of_store_engine
 * Team C: Glass, Tabler, Ito, Kiefhaber
   * Code: https://github.com/tkiefhaber/son_of_store_engine/
   * Production: http://son-of-store-engine.herokuapp.com
+  * README: https://github.com/tkiefhaber/son_of_store_engine/
 
 #### Surprise & Delight Showcase (5 min/group)
 

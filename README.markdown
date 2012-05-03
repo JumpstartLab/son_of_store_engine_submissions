@@ -1,12 +1,18 @@
 ### Championship Round - Thursday, May 3rd
 
+#### Schedule
+
+* 10:00 - 11:00 -- Contender Presentations (3 Teams)
+* 11:00 - 11:20 -- S&D Showcase (3 Teams)
+* 11:20 - 11:30 -- Feedback & Winner Announced
+
 #### Voting
 
 Please open the Google Form below to cast your votes:
 
 https://docs.google.com/spreadsheet/viewform?formkey=dDlNZVdva0hhd3liY0N4SlR1VkhialE6MQ
 
-#### Contenders
+#### Contender Presentations (20 min/group)
 
 * Team A: Maddox, Williams, Chenault, Chlipala
   * Code: https://github.com/mikesea/son_of_store_engine
@@ -17,6 +23,18 @@ https://docs.google.com/spreadsheet/viewform?formkey=dDlNZVdva0hhd3liY0N4SlR1Vkh
 * Team C: Glass, Tabler, Ito, Kiefhaber
   * Code: https://github.com/tkiefhaber/son_of_store_engine/
   * Production: http://son-of-store-engine.herokuapp.com
+
+#### Surprise & Delight Showcase (5 min/group)
+
+* Team D: Strahan, Valentine, Rivera, Weng
+  * Code: https://github.com/eweng/son_of_store_engine
+  * Production: http://storeberry.herokuapp.com, http://www.storeenginebaby.com
+* Team E: Koszewski, Scheffler, Shah, Cutrali
+  * Code: https://github.com/1337807/son_of_store_engine
+  * Production: http://staging.sonofstoreengine.com/
+* Team F: Gilman, Thal, Kaufman, Rimmer
+  * Code: https://github.com/athal7/son_of_store_engine
+  * Production: http://daughterofstoreengine.herokuapp.com/ 
 
 ### First Round - Wednesday, May 2nd
 

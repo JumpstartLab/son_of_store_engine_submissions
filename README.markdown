@@ -1,4 +1,4 @@
-### Championship Round
+### Championship Round - Thursday, May 3rd
 
 #### Voting
 
@@ -8,17 +8,17 @@ https://docs.google.com/spreadsheet/viewform?formkey=dDlNZVdva0hhd3liY0N4SlR1Vkh
 
 #### Contenders
 
-* Team X: A, B, C, D
-  * Code:
-  * Production:
-* Team X: A, B, C, D
-  * Code:
-  * Production:
-* Team X: A, B, C, D
-  * Code:
-  * Production:
+* Team A: Maddox, Williams, Chenault, Chlipala
+  * Code: https://github.com/mikesea/son_of_store_engine
+  * Production: http://chez-pierre.info
+* Team B: Silvis, Anderson, Verdi, Worthy
+  * Code: https://github.com/MikeSilvis/son_of_store_engine
+  * Production: http://polutropon.com/
+* Team C: Glass, Tabler, Ito, Kiefhaber
+  * Code: https://github.com/tkiefhaber/son_of_store_engine/
+  * Production: http://son-of-store-engine.herokuapp.com
 
-### First Round
+### First Round - Wednesday, May 2nd
 
 #### Groups & URLS
 

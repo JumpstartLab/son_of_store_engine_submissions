@@ -1,3 +1,23 @@
+### Championship Round
+
+#### Voting
+
+Please open the Google Form below to cast your votes:
+
+https://docs.google.com/spreadsheet/viewform?formkey=dDlNZVdva0hhd3liY0N4SlR1VkhialE6MQ
+
+#### Contenders
+
+* Team X: A, B, C, D
+  * Code:
+  * Production:
+* Team X: A, B, C, D
+  * Code:
+  * Production:
+* Team X: A, B, C, D
+  * Code:
+  * Production:
+
 ### First Round
 
 #### Groups & URLS
